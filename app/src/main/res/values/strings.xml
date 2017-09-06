@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">智慧公車亭視障模式</string>
+    <string name="search_way">路線查詢</string>
+    <string name="search_destination">目的地查詢</string>
+    <string name="Arrival_reminders">到站提醒設定</string>
+    <string name="Common_bus_route">常用公車路線</string>
+
+    <drawable name="actionbar_background">#FF0000</drawable>
+    <color name="color_title">#00000000</color>
+</resources>
